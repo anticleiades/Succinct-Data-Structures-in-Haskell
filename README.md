@@ -4,6 +4,10 @@ This is an experimental Haskell project exploring **type-informed compression**,
 
 See [SuccinctDS.pdf](SuccinctDS.pdf) for documentation.
 
+## Authors
+- [Giuliano Gorgone](https://github.com/anticleiades)
+- [Nam Wang](https://github.com/NephewNan)
+
 ## Overview
 
 We start by implementing succinct trees—data structures that provide almost information-theoretically optimal space bounds for tree representations. In future versions, we aim leverage the Haskell type system to automatically derive (near) bit-optimal representations for arbitrary algebraic data types. The ultimate goal is to offer a transparent interface that uses the most efficient bit-level layout and its corresponding operations, eliminating the need for complex manual bit manipulation.
