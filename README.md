@@ -6,7 +6,7 @@ See [SuccinctDS.pdf](SuccinctDS.pdf) for documentation.
 
 ## Authors
 - [Giuliano Gorgone](https://github.com/anticleiades)
-- [Nam Wang](https://github.com/NephewNan)
+- [Nan Wang](https://github.com/NephewNan)
 
 ## Overview
 
